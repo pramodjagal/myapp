@@ -1,0 +1,11 @@
+<h1>This is a sample rails application</h1>
+
+<%=form_for :details, url:welcome_sayhello_path do |f|%>
+    <p>
+      <%=f.label :name%>
+      <%=f.text_field :name%>
+    </p>
+    <p>
+      <%=f.submit%>
+    </p>
+<%end%>
