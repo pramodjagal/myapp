@@ -1,0 +1,15 @@
+<div ng-controller="demoPicListCtrl" ng-app="demoPicLoaderApp">
+  <div class="row">
+    <div class="small-8 columns">{{albumDetails.albumName}}</div>
+    <div class="small-4 columns"></div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <ui class="small-block-grid-3 medium-block-grid-4 large-block-grid-5">
+        <li ng-repeat="picture in pictures">
+          <img class="th" ng-src="{{picture.thumbnailDisplay.tnUrl}}"/>
+        </li>
+      </ui>
+    </div>
+  </div>
+</div>

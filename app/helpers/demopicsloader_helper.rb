@@ -1,0 +1,2 @@
+module DemopicsloaderHelper
+end

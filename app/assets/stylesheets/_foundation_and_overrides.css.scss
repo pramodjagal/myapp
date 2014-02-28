@@ -1,0 +1,9 @@
+@import "foundation";
+
+
+
+.button1 {
+  $button-font-color: red;
+  @include button;
+}
+

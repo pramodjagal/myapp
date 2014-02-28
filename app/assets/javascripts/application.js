@@ -13,4 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require foundation
+//= require angular
 //= require_tree .
+
+
+$(document).foundation();
