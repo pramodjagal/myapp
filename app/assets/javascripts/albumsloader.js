@@ -2,7 +2,7 @@
 // All this logic will automatically be available in application.js.
 
 
-var albumLoaderApp = angular.module('albumLoaderApp', []);
+var albumApp = angular.module('albumApp', []);
 
 /*albumLoaderApp.controller('albumListCtrl', function ($scope, $http) {
  $http.get('../assets/albums.json').success(function(data) {
@@ -11,8 +11,16 @@ var albumLoaderApp = angular.module('albumLoaderApp', []);
 
  });*/
 
-albumLoaderApp.controller('albumListCtrl', ['$scope', '$http', function ($scope, $http) {
+albumApp.controller('albumListCtrl', ['$scope', '$http', function ($scope, $http) {
     $http.get('../assets/albums.json').success(function (data) {
         $scope.albums = data.album;
     });
 }]);
+
+albumApp.controller('pictureListCtrl',['$scope','$http', function($scope, $http) {
+    $http.get('../assets/demopics.json').success(function (data) {
+        $scope.pictures = data.userAssets.userAsset;
+        $scope.albumDetails = data.albumInfo;
+    });
+}]);
+
