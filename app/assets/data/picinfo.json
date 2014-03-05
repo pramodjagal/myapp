@@ -1,0 +1,76 @@
+{
+    "PictOid": 10003357001,
+    "Version": 7,
+    "AccessLevel": 1001,
+    "OwnerAcctOid": 10000822001,
+    "Subs": "WALGREENS",
+    "AlbumPictOid": 10003357001,
+    "SourceCode": "DIG",
+    "PartnerId": null,
+    "AlbumOid": 10000398001,
+    "SourceAlbumOid": 10000398001,
+    "Caption": "glee-522-3840x2160",
+    "PhotoDescription": null,
+    "DatePhotoTaken": 1391411859000,
+    "Aging": "NIL",
+    "DisplOrder": 1000,
+    "tnHeight": 54,
+    "tnWidth": 96,
+    "tnSize": 3082,
+    "tnPathObject": {
+        "Cell": "dm4",
+        "Directory": "tn/1000/082/200/UPLOAD",
+        "FileName": "0010002865001tn.jpg"
+    },
+    "lrHeight": 270,
+    "lrWidth": 480,
+    "lrSize": 38906,
+    "lrPathObject": {
+        "Cell": "dm3",
+        "Directory": "lr/1000/082/200/UPLOAD",
+        "FileName": "0010002865001lr.jpg"
+    },
+    "hrHeight": 2160,
+    "hrWidth": 3840,
+    "hrSize": 1398299,
+    "hrImageOid": 10003157001,
+    "hrPathObject": {
+        "Cell": "dm3",
+        "Directory": "hr/0010/002/865",
+        "FileName": "0010002865001.jpg"
+    },
+    "olrHeight": -1,
+    "olrWidth": -1,
+    "olrSize": -1,
+    "olrPathObject": {
+        "cell": null,
+        "directory": null,
+        "fileName": null
+    },
+    "Angle": 0,
+    "Journal": {
+        "JournalCore": null,
+        "JournalExtended": null,
+        "JournalOptional": null,
+        "JournalDeveloper": null
+    },
+    "CreateDate": 1393930281000,
+    "PremiumCategoryOid": null,
+    "osMetadata": null,
+    "exifMetadata": null,
+    "xmpMetadata": null,
+    "userMetadata": null,
+    "faceMetadata": null,
+    "imageJournal":"",
+    "originalCropspectRatio":1.5,
+    "imageSouce":"Yup6JaQ%7C%3DTj6%3DzqH%3AxUtKxmrpx7ttrxMyThN9cTMOyxrj7tD7KxYHA7ttrx9OOTxgXJ%3F87KR6xKjxPQQQxQaoxoQQxv8uOc5xQQPQQQoalGQQPKjfVtB%3F*KUp7BHSHqqy7XH6gXJ%7C%3Dup6%3DzqH%3AxUtKxmrpx7ttrxMyThN9cTMOyxrj7tD7KxYHA7ttrx9OOTxgX0%3F87KR6xqpxPQQQxQaoxoQQxv8uOc5xQQPQQQoalGQQPqpfVtB%3F*KUp7BHSHqqy7XH6gX0%7CRTj6GJ%7CRup6oeQ%7CrUmpDH6tzDK_Uzg%3APQQQ00GeQQP%2CPQQQQaooQQP%7CYTj6nl%7C",
+    "dblCropspectRatio":1.5,
+    "renderHostname":"http://pramod-desktop/render2/",
+    "imageBorder":""
+}
+
+
+
+
+
+

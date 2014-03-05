@@ -1,0 +1,448 @@
+{"albumInfo": {
+    "accessLevel": "OWNER",
+    "newCommentsIndicator": "",
+    "isShareable": "true",
+    "albumCoverUrl": "http:\/\/pramod-desktop\/render2\/is=Yup6JaQ%7C%3Dup6%3DzqH%3AxUtKxmrpx7ttrxMyThN9cTMOyxrj7tD7KxYHA7ttrx9OOTxgXo%3F87KR6xqpxPQQQxQaoxoQQxv8uOc5xQQPQQQoaGeQQPqpfVtB%3F*KUp7BHSHqqy7XH6gXo%7CRup60lQ%7C\/of=52,96,96",
+    "albumName": "Disney",
+    "albumTypeCode": "STD",
+    "typeName": "ownedAlbum",
+    "albumOid": 10000397001,
+    "isVirtual": "false",
+    "sortOrder": "",
+    "createDate": 1393910430000,
+    "albumCoverPictOid": 10003349001,
+    "albumDate": 1393871400000,
+    "ownerAcctOid": 10000822001,
+    "isFavorites": "false",
+    "theme": "albumorgthemes_notheme"
+}, "shareeEmailsUrl": "\/beapi\/acct\/10000822001\/album\/10000397001\/shareeEmails", "imageCount": 9, "userAssets": {
+    "typeName": "userAssets",
+    "userAsset": [
+        {
+            "hrHeight": 640,
+            "hrWidth": 853,
+            "journalCore": "ca=0.0,0.0,0.84166664,0.9458333,1.5\/of=50,480,480\/",
+            "hrSize": 106931,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 320,
+            "lrUrl": "http:\/\/walgreens\/dm3\/lr\/0010\/002\/900\/0010002900001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003392001",
+            "createDate": 1393910499000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 64,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm3\/tn\/0010\/002\/902\/0010002902001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image001(2)",
+            "isCropped": "true",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image001.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image001.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image001"]
+                    }
+                ]
+            },
+            "pictOid": 10003392001
+        },
+        {
+            "hrHeight": 640,
+            "hrWidth": 853,
+            "hrSize": 106931,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm4\/lr\/1000\/082\/200\/UPLOAD\/0010002864001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003356001",
+            "createDate": 1393910437000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm2\/tn\/1000\/082\/200\/UPLOAD\/0010002864001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image001",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image001.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image001.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image001"]
+                    }
+                ]
+            },
+            "pictOid": 10003356001
+        },
+        {
+            "hrHeight": 650,
+            "hrWidth": 866,
+            "hrSize": 105007,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm3\/lr\/1000\/082\/200\/UPLOAD\/0010002863001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003355001",
+            "createDate": 1393910436000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm4\/tn\/1000\/082\/200\/UPLOAD\/0010002863001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image002",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image002.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image002.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image002"]
+                    }
+                ]
+            },
+            "pictOid": 10003355001
+        },
+        {
+            "hrHeight": 654,
+            "hrWidth": 872,
+            "hrSize": 108221,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm3\/lr\/1000\/082\/200\/UPLOAD\/0010002862001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003354001",
+            "createDate": 1393910435000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm4\/tn\/1000\/082\/200\/UPLOAD\/0010002862001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image003",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image003.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image003.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image003"]
+                    }
+                ]
+            },
+            "pictOid": 10003354001
+        },
+        {
+            "hrHeight": 661,
+            "hrWidth": 881,
+            "hrSize": 143371,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm2\/lr\/1000\/082\/200\/UPLOAD\/0010002861001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003353001",
+            "createDate": 1393910434000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm3\/tn\/1000\/082\/200\/UPLOAD\/0010002861001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image004",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image004.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image004.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image004"]
+                    }
+                ]
+            },
+            "pictOid": 10003353001
+        },
+        {
+            "hrHeight": 669,
+            "hrWidth": 892,
+            "hrSize": 119906,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm3\/lr\/1000\/082\/200\/UPLOAD\/0010002860001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003352001",
+            "createDate": 1393910433000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm2\/tn\/1000\/082\/200\/UPLOAD\/0010002860001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image005",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image005.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image005.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image005"]
+                    }
+                ]
+            },
+            "pictOid": 10003352001
+        },
+        {
+            "hrHeight": 677,
+            "hrWidth": 903,
+            "hrSize": 132443,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 359,
+            "lrUrl": "http:\/\/walgreens\/dm3\/lr\/1000\/082\/200\/UPLOAD\/0010002859001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003351001",
+            "createDate": 1393910432000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 71,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm4\/tn\/1000\/082\/200\/UPLOAD\/0010002859001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image006",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image006.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image006.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image006"]
+                    }
+                ]
+            },
+            "pictOid": 10003351001
+        },
+        {
+            "hrHeight": 686,
+            "hrWidth": 914,
+            "hrSize": 147130,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm2\/lr\/1000\/082\/200\/UPLOAD\/0010002858001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003350001",
+            "createDate": 1393910431000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm2\/tn\/1000\/082\/200\/UPLOAD\/0010002858001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image007",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image007.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image007.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image007"]
+                    }
+                ]
+            },
+            "pictOid": 10003350001
+        },
+        {
+            "hrHeight": 689,
+            "hrWidth": 918,
+            "hrSize": 130651,
+            "lrWidth": 480,
+            "albumCaption": "Disney",
+            "typeName": "picture",
+            "albumOid": 10000397001,
+            "sourceCode": "DIG",
+            "lrHeight": 360,
+            "lrUrl": "http:\/\/walgreens\/dm2\/lr\/1000\/082\/200\/UPLOAD\/0010002857001lr.jpg",
+            "fullUserAssetResourceUri": "\/beapi\/website\/walgreens_us\/acct\/10000822001\/ownerAcct\/10000822001\/userAsset\/10003349001",
+            "createDate": 1393910431000,
+            "ownerAcctOid": 10000822001,
+            "takenDate": -1,
+            "isBordered": "false",
+            "thumbnailDisplay": {
+                "tnHeight": 72,
+                "typeCode": "PIC",
+                "typeName": "thumbnailDisplay",
+                "tnUrl": "http:\/\/walgreens\/dm2\/tn\/1000\/082\/200\/UPLOAD\/0010002857001tn.jpg",
+                "tnWidth": 96
+            },
+            "caption": "image008",
+            "isCropped": "false",
+            "metadata": {
+                "typeName": "metadata",
+                "metadataTag": [
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FILENAME",
+                        "metadataText": ["image008.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "OS_FOLDER",
+                        "metadataText": ["image008.jpg"]
+                    },
+                    {
+                        "typeName": "metadataTag",
+                        "metadataType": "USER_PICTCAPTION",
+                        "metadataText": ["image008"]
+                    }
+                ]
+            },
+            "pictOid": 10003349001
+        }
+    ]
+}, "isCommentsDisabled": "false", "typeName": "ownedAlbumDetail", "filteredPicOwnerOids": "10003392001_10000822001_P,10003356001_10000822001_P,10003355001_10000822001_P,10003354001_10000822001_P,10003353001_10000822001_P,10003352001_10000822001_P,10003351001_10000822001_P,10003350001_10000822001_P,10003349001_10000822001_P", "videoCount": 0, "allTagsInfo": {
+    "typeName": "albumTags"
+}, "fullPicOids": "10003392001_10000822001_P,10003356001_10000822001_P,10003355001_10000822001_P,10003354001_10000822001_P,10003353001_10000822001_P,10003352001_10000822001_P,10003351001_10000822001_P,10003350001_10000822001_P,10003349001_10000822001_P"}

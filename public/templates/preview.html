@@ -1,0 +1,78 @@
+<div ng-controller="picInfoCtrl">
+    <div class="crop-maindiv">
+        <div class="crop-heading">Preview and Crop:</div>
+        <div>
+
+            <div class="crop-leftpanel">
+
+
+                <table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                        <td width="15" height="32"></td>
+                        <td></td>
+                        <td width="15"></td>
+                    </tr>
+                    <tr>
+                        <td width="15"></td>
+                        <td align="center" width="422">
+                            <img src="" id="target"/>
+
+                            <div style="display:none">
+                                <label>X1 <input type="text" size="4" id="x1" name="x1"/></label>
+                                <label>Y1 <input type="text" size="4" id="y1" name="y1"/></label>
+                                <label>X2 <input type="text" size="4" id="x2" name="x2"/></label>
+                                <label>Y2 <input type="text" size="4" id="y2" name="y2"/></label>
+                                <label>W <input type="text" size="4" id="w" name="w"/></label>
+                                <label>H <input type="text" size="4" id="h" name="h"/></label><br/>
+                                <label>Journal <input type="text" size="10" id="journal" name="journal"/></label>
+                            </div>
+
+                        </td>
+                        <td width="15">
+                            <script language="JavaScript1.2">
+                                var minResolutionArray = new Array(530, 360);
+                                mainCropControl = new cropControl("cropper1", "http://walgreens/default/images/crop", cropAspectRatio, minResolutionArray[0], minResolutionArray[1], journalEngine, true, 2);
+                            </script>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="15" height="32"></td>
+                        <td></td>
+                        <td width="15"></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="crop-rightpanel">
+                <span style="padding-bottom:11px;"><a href="javascript:void(0);" id="revertCrop">Revert to original</a></span>
+                <span style="padding-bottom:10px;"><b>To resize the crop box</b>,<br/>drag the corner handles.</span>
+          <span style="padding-bottom:11px;"><b>To move the crop
+              box</b>,<br/>click and drag the center of the box.</span>
+                <span style="padding-bottom:27px;">When you're done, click 'Apply crop'.</span>
+
+                <span style="padding-bottom:5px;"><b>Crop Orientation</b></span><br/>
+
+                <span class="sprite-h radio-blue radio-h-position" id="landscapeRadio"></span><span
+                    id="landscapeImageRadio" class="sprite-h icon-landscape"></span><br/>
+                <span style="height:19px;display:block;"></span>
+                <span class="sprite-h radio-blue radio-v-position" id="potraitRadio"></span><span id="potraitImageRadio"
+                                                                                                  class="sprite-h icon-portrait"></span>
+
+                <font face="Verdana,Arial,Helvetica,sans-serif" color="#FF0000" size=1>The resolution of this photo is
+                    too small to support cropping in a different orientation.</font>
+
+            </div>
+        </div>
+        <div id="mobile-portrait">
+            <div class="crop-lowresdiv" id="resWarningCrop" style="display:none;">
+                <span class="sprite-h new-resolutionicon"></span>
+                      <span class="lowres-text"><b>Low resolution.</b> This image's resolution quality may result in a blurry or pixelated print. <a
+                              href="#">Learn
+                          more &#8250;</a></span>
+            </div>
+            <div class="crop-btnpanel">
+                <a href="javascript:cancel()" class="btn-secondary" title="Cancel" style="margin-right:15px;">Cancel</a>
+                <a href="javascript:doneEditing()" class="btn-primary" title="Apply crop">Apply crop</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,2 +1,0 @@
-module AlbumsloaderHelper
-end

@@ -1,4 +1,4 @@
-<div ng-controller="albumListCtrl" ng-app="albumApp">
+<div ng-controller="albumListCtrl">
   <div class="row">
     <div class="small-8 columns">These are the albums you have in your account</div>
     <div class="small-4 columns"></div>
@@ -7,7 +7,7 @@
     <div class="small-12 columns">
       <ui class="small-block-grid-3 medium-block-grid-4 large-block-grid-5">
         <li ng-repeat="album in albums">
-          <a target=_self class="thumb" ng-href="/demopicsloader/index?album_oid={{album.albumOid}}"><img class="th" ng-src="{{album.albumCoverUrlLR}}"/></a>
+          <a target=_self class="thumb" ng-href="#/albums/{{album.albumOid}}/"><img class="th" ng-src="{{album.albumCoverUrlLR}}"/></a>
           <p>{{album.albumName}}</p>
         </li>
       </ui>

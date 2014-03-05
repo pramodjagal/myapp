@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class AlbumsloaderControllerTest < ActionController::TestCase
+class BuilderControllerTest < ActionController::TestCase
   test "should get albums" do
     get :albums
     assert_response :success

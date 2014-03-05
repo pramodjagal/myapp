@@ -1,0 +1,68 @@
+.crop-lowresdiv span{
+  color: #c43f0e;
+  font-size:14px;
+}
+.crop-lowresdiv a{
+  font-size:14px;
+}
+
+.crop-leftpanel{
+  width:310px;
+  background-color:#cccccc;
+  float:left;
+  margin-right:20px;
+  margin-bottom:15px;
+  clear:both;
+}
+
+
+
+html> body .crop-leftpanel{
+  width:452px;
+}
+.crop-rightpanel{
+  width:162px;
+  float:left;
+  font-size:14px;
+  margin-top: -3px;
+  padding-bottom: 15px;
+}
+.crop-rightpanel a{
+  font-size: 14px;
+}
+html > body .crop-rightpanel{
+  width:161px;
+}
+.crop-rightpanel span{
+  display: inline-block;
+}
+.crop-heading{
+  font-size:24px;
+  color: #878f95;
+  padding:16px 0px 14px;
+}
+
+
+
+.preview-padding
+{
+  padding-left:8px;
+  padding-top:5px;
+  padding-bottom:7px;
+}
+
+html > body .crop-heading{
+  padding:15px 0px 14px;
+}
+.crop-btnpanel{
+  float:right;
+  padding-top:10px;
+  width:184px;
+  height: 35px;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .crop-leftpanel{
+    width:310px;
+  }
+}

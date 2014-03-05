@@ -16,6 +16,7 @@
 //= require foundation
 //= require angular
 //= require angular-route
+//= require jquery.Jcrop
 //= require_tree .
 
 
