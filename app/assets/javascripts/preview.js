@@ -6,9 +6,22 @@
 
 
 
-var picInfo = null;
+var picInfo = {};
+
+$.ajaxSetup({
+    async: false
+});
+
+$.getJSON('/assets/picinfo.json', function(data) {
+    picInfo = data; //you'll find your json here
+    setPicInfo(data);
+});
 
 
+function setPicInfo(data) {
+
+    picInfo = data;
+}
 
 
 
@@ -16,15 +29,17 @@ var picInfo = null;
 /**************************************************************************************************/
 var CROPORIENTATION_LANDSCAPE = 0;
 var CROPORIENTATION_PORTRAIT = 1;
-var hiresHeight = picInfo.picHrHeight;
-var hiresWidth = picInfo.picHrWidth;
+var hiresHeight = picInfo.hrHeight;
+var hiresWidth = picInfo.hrWidth;
 var picHeightUB = picInfo.picHeightUB;
 var picWidthUB = picInfo.picWidthUB;
 var displayBoxSize = 385;
+console.log(picInfo.hrHeight) ;
 // var leadingOliId = <%= leadingOLIOid%>;
 // var isSqPrint = <%= isSqPrint%>;
 //ToDo: Need to check this
 var journal = picInfo.imageJournal;
+
 
 var isJournalNull = true;
 var journalParam = ""; //ToDo: get this fron Handler
